@@ -1,0 +1,448 @@
+======================================================================
+Date/Time:    2026-06-28 05:06:48
+Recipient:    test_email_user@example.com
+Subject:      Welcome to MindCare Hub!
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Welcome, Test Email User!Your student mental wellness and counseling account has been registered successfully.
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:06:50
+Recipient:    test_email_user@example.com
+Subject:      Password Reset Code - MindCare Hub
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Hello testemailuser,Reset code is: 977131
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:07:52
+Recipient:    test_email_user@example.com
+Subject:      Welcome to MindCare Hub!
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Welcome, Test Email User!Your student mental wellness and counseling account has been registered successfully.
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:07:54
+Recipient:    test_email_user@example.com
+Subject:      Password Reset Code - MindCare Hub
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Hello testemailuser,Reset code is: 315990
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:11:01
+Recipient:    sreebalu01062005@gmail.com
+Subject:      Welcome to MindCare Hub!
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Welcome, Alex!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: alex_01Email: sreebalu01062005@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:12:12
+Recipient:    priyabalasubramanian2005@gmail.com
+Subject:      Welcome to MindCare Hub!
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Welcome, Alex!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: alex_0103Email: priyabalasubramanian2005@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:13:37
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Welcome to MindCare Hub!
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Welcome, angel!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: angelEmail: priyabalasubramanian0106@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:15:45
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Welcome to MindCare Hub!
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Welcome, alex!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: alexEmail: priyabalasubramanian0106@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:17:03
+Recipient:    sreeshamyugtha0106@gmail.com
+Subject:      Welcome to MindCare Hub!
+PHP mail():   FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Welcome, alex!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: alex13Email: sreeshamyugtha0106@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:22:28
+Recipient:    sreeshamyugtha0106@gmail.com
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       PHP mail()
+Status:       FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Hello alex,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. Dr. Sarah JenkinsDate: June 30, 2026Time: 10:00 AMObjective / Concern: family stressYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-28 05:23:28
+Recipient:    sreeshamyugtha0106@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       PHP mail()
+Status:       FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Hello alex,Your counseling consultation session with Dr. Dr. Sarah Jenkins has been approved.Session Schedule:Date: June 30, 2026Time: 10:00 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 15:02:39
+Recipient:    alice.carter@student.edu
+Subject:      Password Reset Code - MindCare Hub
+Method:       PHP mail()
+Status:       FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Hello alice,You are receiving this email because we received a password reset request for your account.Please use the following 6-digit verification code to complete your password reset:206671This verification code is valid for 15 minutes. If you did not request a password reset, please ignore this email.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 15:06:42
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Password Reset Code - MindCare Hub
+Method:       PHP mail()
+Status:       FAILED / NOT CONFIGURED (Local Development)
+----------------------------------------------------------------------
+Hello alex,You are receiving this email because we received a password reset request for your account.Please use the following 6-digit verification code to complete your password reset:829955This verification code is valid for 15 minutes. If you did not request a password reset, please ignore this email.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:14:20
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Password Reset Code - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,You are receiving this email because we received a password reset request for your account.Please use the following 6-digit verification code to complete your password reset:579518This verification code is valid for 15 minutes. If you did not request a password reset, please ignore this email.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:17:14
+Recipient:    zyxabctuv987654321@gmail.com
+Subject:      Welcome to MindCare Hub!
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Welcome, Kuzhali!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: kuzhEmail: zyxabctuv987654321@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:21:43
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Password Reset Code - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,You are receiving this email because we received a password reset request for your account.Please use the following 6-digit verification code to complete your password reset:121483This verification code is valid for 15 minutes. If you did not request a password reset, please ignore this email.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:23:04
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. Dr. Michael ChenDate: July 01, 2026Time: 10:30 AMObjective / Concern: academic stressYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:23:46
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,Your counseling consultation session with Dr. Dr. Michael Chen has been approved.Session Schedule:Date: July 01, 2026Time: 10:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:23:54
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,Your counseling consultation session with Dr. Dr. Michael Chen has been approved.Session Schedule:Date: July 01, 2026Time: 10:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:24:04
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,Your counseling consultation session with Dr. Dr. Michael Chen has been approved.Session Schedule:Date: July 01, 2026Time: 10:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:24:14
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,Your counseling consultation session with Dr. Dr. Michael Chen has been approved.Session Schedule:Date: July 01, 2026Time: 10:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:24:20
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,Your counseling consultation session with Dr. Dr. Michael Chen has been approved.Session Schedule:Date: July 01, 2026Time: 10:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-06-30 16:24:33
+Recipient:    priyabalasubramanian0106@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello alex,Your counseling consultation session with Dr. Dr. Michael Chen has been approved.Session Schedule:Date: July 01, 2026Time: 10:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-03 07:31:57
+Recipient:    sreebalu01062005@gmail.com
+Subject:      Welcome to MindCare Hub!
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Welcome, sree!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: sreeEmail: sreebalu01062005@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-03 07:50:52
+Recipient:    sreebalu01062005@gmail.com
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello sree,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. drcharanDate: July 04, 2026Time: 11:00 AMObjective / Concern: exam and family stressYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-03 07:51:50
+Recipient:    sreebalu01062005@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello sree,Your counseling consultation session with Dr. drcharan has been approved.Session Schedule:Date: July 04, 2026Time: 11:00 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-03 07:51:55
+Recipient:    sreebalu01062005@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello sree,Your counseling consultation session with Dr. drcharan has been approved.Session Schedule:Date: July 04, 2026Time: 11:00 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 09:52:06
+Recipient:    sreebalu01062005@gmail.com
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       FAILED (Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. )
+----------------------------------------------------------------------
+Hello sree,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. drcharanDate: July 20, 2026Time: 10:30 AMObjective / Concern: stress and unable to sleepYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 09:59:40
+Recipient:    sasmithas45022@gmail.com
+Subject:      Welcome to MindCare Hub!
+Method:       SMTP (PHPMailer)
+Status:       FAILED (Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. )
+----------------------------------------------------------------------
+Welcome, Sasmitha!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: sasmiEmail: sasmithas45022@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:01:21
+Recipient:    sasmithas45022@gmail.com
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       FAILED (Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. )
+----------------------------------------------------------------------
+Hello Sasmitha,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. drcharanDate: July 20, 2026Time: 10:30 AMObjective / Concern: academic and future stressYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:04:22
+Recipient:    sasmithas45022@gmail.com
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello Sasmitha,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. drcharanDate: July 20, 2026Time: 12:30 PMObjective / Concern: academic stressYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:04:56
+Recipient:    sasmithas45022@gmail.com
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello Sasmitha,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. drcharanDate: July 29, 2026Time: 03:34 PMObjective / Concern: stressYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:06:40
+Recipient:    sasmithas45022@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello Sasmitha,Your counseling consultation session with Dr. drcharan has been approved.Session Schedule:Date: July 29, 2026Time: 03:34 PMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:06:54
+Recipient:    sreebalu01062005@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello sree,Your counseling consultation session with Dr. drcharan has been approved.Session Schedule:Date: July 20, 2026Time: 10:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:07:33
+Recipient:    sasmithas45022@gmail.com
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello Sasmitha,Your counseling consultation session with Dr. drcharan has been approved.Session Schedule:Date: July 20, 2026Time: 10:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:08:16
+Recipient:    sasmithas45022@gmail.com
+Subject:      Appointment Request Declined - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello Sasmitha,Your counseling consultation request with Dr. drcharan has been declined.Requested Slot: July 20, 2026 at 12:30 PMYou can check your student dashboard to request a different slot or select another counselor.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:16:03
+Recipient:    22ucy143@vcw.ac.in
+Subject:      Welcome to MindCare Hub!
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Welcome, sreenithi!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: sreenithiEmail: 22ucy143@vcw.ac.inYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:16:54
+Recipient:    22ucy143@vcw.ac.in
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello sreenithi,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. drcharanDate: July 22, 2026Time: 09:30 AMObjective / Concern: stressYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-17 10:18:20
+Recipient:    22ucy143@vcw.ac.in
+Subject:      Appointment Approved - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello sreenithi,Your counseling consultation session with Dr. drcharan has been approved.Session Schedule:Date: July 22, 2026Time: 09:30 AMPlease log in to your dashboard to view connection details.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-20 06:24:55
+Recipient:    22ucy143@vcw.ac.in
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello sreenithi,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. charanDate: July 21, 2026Time: 10:00 AMObjective / Concern: stress conusellingYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-20 06:26:35
+Recipient:    22ucy143@vcw.ac.in
+Subject:      Appointment Rescheduled - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello sreenithi,Your upcoming counseling session with Dr. charan has been rescheduled by the counselor.Previous Schedule: July 21, 2026 at 10:00 AMNew Schedule:Date: July 23, 2026Time: 10:00 AMPlease review this rescheduled session on your student dashboard.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-07-20 06:41:01
+Recipient:    22ucy143@vcw.ac.in
+Subject:      Registration Confirmed: Exams Stress Relief & Time Management Workshop
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Registration Confirmed!
+                        MindCare Hub Campus Wellness Module
+                    
+                    
+                        Hello sreenithi,
+                        Your registration for the campus mental wellness event has been successfully confirmed. Below are your event details:
+                        
+                            Exams Stress Relief & Time Management Workshop
+                            Category: Stress Management Workshop
+                            Date: Tuesday, July 28, 2026
+                            Time: 02:00 PM - 04:00 PM
+                            Venue: Seminar Hall B, Health Sciences Building
+                            Speaker: Dr. Michael Chen
+                        
+                        Please log in to your student portal to download your official PDF Ticket Pass to present at the venue entry.
+                    
+                    
+                        MindCare Hub • Student Mental Wellness System
+======================================================================
+
+======================================================================
+Date/Time:    2026-08-26 08:18:20
+Recipient:    sreeshamyugtha0106@gmail.com
+Subject:      Welcome to MindCare Hub!
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Welcome, Sree!Your student mental wellness and counseling account has been registered successfully.Here are your account credentials:Username: sreeEmail: sreeshamyugtha0106@gmail.comYou can now log in to access the stress assessment test, track your daily moods, write in your personal journal, and book consultations with our professional counselors.Best regards,MindCare Hub Team
+======================================================================
+
+======================================================================
+Date/Time:    2026-08-26 08:38:44
+Recipient:    sreeshamyugtha0106@gmail.com
+Subject:      Appointment Request Submitted - MindCare Hub
+Method:       SMTP (PHPMailer)
+Status:       SUCCESS (Real Email Delivered)
+----------------------------------------------------------------------
+Hello Sree,Your consultation booking request has been submitted successfully and is awaiting counselor review.Session Details:Counselor: Dr. HariDate: August 31, 2026Time: 10:00 AMObjective / Concern: Academic stressYou will receive another email update once your counselor approves or reschedules this session.Best regards,MindCare Hub Team
+======================================================================
+
